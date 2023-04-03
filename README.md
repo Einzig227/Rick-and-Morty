@@ -32,7 +32,3 @@ To get started with the project, follow these steps:
 2. Navigate to the project directory and run `npm install` to install the necessary dependencies.
 3. Run `npm start` to start the development server.
 4. Open your browser and go to http://localhost:3000 to view the website.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
