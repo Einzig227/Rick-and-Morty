@@ -11,7 +11,7 @@ This project is a frontend-only responsive web application built with React.js t
 - Displays information about the characters of the show, including their name, species, image, origin, and status (alive or dead).
 - Provides a brief summary of each character's background and personality.
 
-![Characters cards screenshot](/screenshots/2-characters-cards?raw=true)
+![Characters cards screenshot](/screenshots/2-characters-cards.png?raw=true)
 ![Details about character screenshot](/screenshots/3-details-modal.png?raw=true)
 ![Pagination screenshot](/screenshots/4-pagination.png?raw=true)
 
